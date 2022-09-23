@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ ©2017 Rajneesh Singh
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <color name="translucent_white_8p">#20ffffff</color>
+    <color name="bgcolor">#96000000</color>
+    <color name="default_artwork_bg">#00212121</color>
+    <color name="white">#ffffff</color>
+    <color name="colorPrimary">#c62828</color>
+    <color name="colorPrimaryLight">#c62828</color>
+    <color name="colorAccent">#f44336</color>
+    <color name="colorAccentDarkDefault">#20a9e9</color>
+    <color name="colorPrimaryDarkTheme">#263238</color>
+    <color name="colorPrimaryDarkDarkTheme">#263238</color>
+    <color name="colorAccentDarkTheme">#20a9e9</color>
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorSecondaryText">#353434</color>
+    <color name="darkthemeTextColor">#f5f5f5</color>
+    <color name="MaterialGrey">#212121</color>
+    <color name="shadowbg">#50000000</color>
+    <color name="lightBg">#fafafa</color>
+    <color name="darkBg">#1d1d1d</color>
+    <color name="text_transparent">#dcffffff</color>
+    <color name="colorPrimaryDark">#0f4574</color>
+    <color name="memory_status_color">#3fa19f</color>
+    <color name="memory_bar_color">#ff9c40</color>
+    <color name="new_folder_color">#c14b84</color>
+    <color name="select_color">#3fa16e</color>
+    <color name="cancel_color">#3fa19f</color>
+    <color name="colorPrimaryBlack">#000000</color>
+    <color name="colorAccentBlack">#ffc400</color>
+</resources>
+
